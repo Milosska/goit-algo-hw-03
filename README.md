@@ -16,3 +16,12 @@ Write a Python program that recursively copies files from a source directory, mo
    For each file type, create a corresponding folder in the destination directory using the file extension as the folder name.Copy each file into its corresponding extension-based subdirectory.
 4. Exception handling: The code should handle exceptions, such as file or directory access errors.
 5. Outcome: After running the program, all files from the source directory should be recursively copied to the destination directory and sorted into subdirectories based on their extensions.
+
+## Task 2
+
+Write a Python program that uses recursion to create a Koch snowflake fractal, where the user must be able to specify the recursion level.
+
+### Requirements:
+
+1. The code runs correctly. The program visualizes the Koch snowflake fractal.
+2. The user has the ability to specify the recursion level.
