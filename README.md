@@ -25,3 +25,14 @@ Write a Python program that uses recursion to create a Koch snowflake fractal, w
 
 1. The code runs correctly. The program visualizes the Koch snowflake fractal.
 2. The user has the ability to specify the recursion level.
+
+## Task 3
+
+Write a program that moves disks from rod A to rod C, using rod B as an auxiliary. The disks have different sizes and are initially stacked on rod A in decreasing size order from top to bottom.
+
+### Requirements:
+
+1. Only one disk can be moved at a time.
+2. A disk can only be placed on a larger disk or on an empty rod.
+
+The program’s input should be a number n — the number of disks on the starting rod. The output should be a log of the sequence of steps required to move the disks from rod A to rod C.
